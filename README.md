@@ -1,19 +1,7 @@
-# KRONEsoft Expenses
-Don't want the feds onto our tax evasion scheme!
-
-## Downloading Files
-1. `git clone git@github.com:7coil/kronesoft-expenses.git`
-
-## Running
-1. Open `Visual Studio Code` in NoMachine
-2. Open the folder that you cloned in VScode.
-3. Install the Java Development Plugins in the plugins tab
-4. Press F5 to start debugging Kronesoft Expenses.
-
 ## Potential Problems
 1. If Maven dependencies aren't installed, try opening and saving the `pom.xml` file, and clicking Yes on the bottom right notification.
 
-## Classes
+## design and the classes used in the program
 ```java
 enum Category {
   ADVERTISING("Advertising"),
